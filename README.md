@@ -7,3 +7,4 @@ $ vim logic.py
 $ python logic.py
 ```
 Press 'z' for the left image, and press 'x' for the right image. 
+Designed by @artist-ma
